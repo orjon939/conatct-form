@@ -1,0 +1,18 @@
+.telefoni{
+    display: flex;
+    }
+    .mail{
+        display: flex;
+    }
+    .lokacioni{
+        display: flex;
+    }
+    body{
+        background-color: rgb(0, 0, 85);
+    }
+    .main{
+        display: flex;
+    }
+    .bardhe{
+        color: white;
+    } 
