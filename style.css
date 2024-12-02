@@ -14,5 +14,21 @@
         display: flex;
     }
     .bardhe{
-        color: white;
+        color: white
+    }
+    .kaft{
+        color: gray;
+    }
+    #right-side{
+        padding: 20px;
+        background-color: white;
     } 
+    #button{
+        height: 52px;
+        width: 107px;
+        background-color: blue;
+        border-radius: 30px;
+        text-align: center;
+        color: white;
+        float: right;
+    }
